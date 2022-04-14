@@ -5,5 +5,6 @@ Storage Area Networks (SAN) are dedicated high-speed networks that allow devices
 
 The Cisco® MDS 9000 Series directors and switches provide a solution to correct this problem with its Dynamic Ingress Rate Limiting (DIRL) software, a new innovation that identifies and prevents SAN congestion. SAN congestion caused by slow drain and over-utilization, is prevented by the MDS DIRL software with no impact on the target device and other connected devices.
 
-Or download the report in the link below:
+Please see the full detailed report provided or visit the source link below:
+
 https://miercom.com/cisco-mds-dirl-san-congestion-software-performance-validation/
